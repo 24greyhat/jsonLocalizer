@@ -1,0 +1,18 @@
+{
+  "language": "English",
+  "Screens": {
+    "Home": {
+      "Title": "Welcome Home",
+      "text": "this is the home page..."
+    },
+    "Login": {
+      "Title": "Login to continue...",
+      "login_button": "Login",
+      "forgot_passwordMsg": "Forgot your password?"
+    },
+    "Signup": {
+      "Title": "Signup and get started...",
+      "login_msg": "login instead!"
+    }
+  }
+}
