@@ -1,18 +1,26 @@
 {
   "language": "English",
-  "Screens": {
-    "Home": {
-      "Title": "Welcome Home",
-      "text": "this is the home page..."
+  "screens": {
+    "errors": {
+      "email_auth_error": "Please check your email for your email verification link and click it before logging in!",
+      "auth_error": "Login failed with the given credentials!",
+      "registration_error": "Signup failed with the given credentials!"
     },
-    "Login": {
-      "Title": "Login to continue...",
-      "login_button": "Login",
-      "forgot_passwordMsg": "Forgot your password?"
+    "general": {
+      "pp": "Privacy Policy",
+      "tou": "Terms Of Use",
+      "au": "About Us",
+      "email": "email",
+      "password": "password",
+      "username": "username"
     },
-    "Signup": {
-      "Title": "Signup and get started...",
-      "login_msg": "login instead!"
+    "login": {
+      "login_btn": "Login",
+      "signup_msg": "Don't have an account?",
+      "fyp": "Forgot your password?"
+    },
+    "signup": {
+      "signup_btn": "Signup"
     }
   }
 }

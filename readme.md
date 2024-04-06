@@ -10,7 +10,8 @@ Automatically generates a directory of json files in different languages from a 
 
 ## 3) run the example to get started
 <code>$ python3 example.py</code>
-#### the results are stored in a new folder called "localized"
+#### the results are stored in a new folder called "translations"
+### an "index.js" file is generated along with a "languages.js"
 
 
 ## 4) read, use and modify it according to your needs.
